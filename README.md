@@ -1,4 +1,4 @@
-(Read this file for better understanding of the programme)
+# Block Chain voting system
  Deployment:
 
 When deploying the `votingSystem` smart contract, you need to ensure that the deployment is done from an account that you trust with ownership privileges. This account will become the `contractOwner` and will have special permissions to manage the voting process.
